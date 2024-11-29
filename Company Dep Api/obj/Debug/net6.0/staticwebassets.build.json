@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "x5/b2EqF9xqknGQQNShax8o26cAZvQw5fDvOnndHoto=",
+  "Hash": "Ligb0RQukqIRMKBDh9GAOgrn09DbZda1Q6toMMlGG+w=",
   "Source": "Company Dep Api",
   "BasePath": "_content/Company Dep Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

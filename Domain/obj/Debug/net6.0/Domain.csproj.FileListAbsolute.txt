@@ -1,0 +1,23 @@
+C:\Users\Elshadgm\Desktop\Company-API\Domain\bin\Debug\net6.0\Company Dep Api.deps.json
+C:\Users\Elshadgm\Desktop\Company-API\Domain\bin\Debug\net6.0\Company Dep Api.runtimeconfig.json
+C:\Users\Elshadgm\Desktop\Company-API\Domain\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Elshadgm\Desktop\Company-API\Domain\bin\Debug\net6.0\appsettings.json
+C:\Users\Elshadgm\Desktop\Company-API\Domain\bin\Debug\net6.0\Company Dep Api.exe
+C:\Users\Elshadgm\Desktop\Company-API\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Elshadgm\Desktop\Company-API\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\Elshadgm\Desktop\Company-API\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Elshadgm\Desktop\Company-API\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Elshadgm\Desktop\Company-API\Domain\bin\Debug\net6.0\Company Dep Api.dll
+C:\Users\Elshadgm\Desktop\Company-API\Domain\bin\Debug\net6.0\Company Dep Api.pdb
+C:\Users\Elshadgm\Desktop\Company-API\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Elshadgm\Desktop\Company-API\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elshadgm\Desktop\Company-API\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Elshadgm\Desktop\Company-API\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Elshadgm\Desktop\Company-API\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Elshadgm\Desktop\Company-API\Domain\obj\Debug\net6.0\Domain.sourcelink.json
+C:\Users\Elshadgm\Desktop\Company-API\Domain\obj\Debug\net6.0\Domain.csproj.Up2Date
+C:\Users\Elshadgm\Desktop\Company-API\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Elshadgm\Desktop\Company-API\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Elshadgm\Desktop\Company-API\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Elshadgm\Desktop\Company-API\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\Elshadgm\Desktop\Company-API\Domain\obj\Debug\net6.0\ref\Domain.dll

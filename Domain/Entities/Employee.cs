@@ -1,15 +1,10 @@
 ﻿using Domain.Comman;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Domain.Entities
 {
     public class Employee : BaseEntity
     {
-        public int id { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
         public string SurName { get; set; }
         public string Email { get; set; }
@@ -19,7 +14,6 @@ namespace Domain.Entities
         public int DepertamentId { get; set; }
         public string Image {  get; set; }
         public Department Department { get; set; }
-        public ICollection<JobHistory> JobHisories { get; set; }
-
+        public List<JobHistory> JobHisories { get; set; }
     }
 }
