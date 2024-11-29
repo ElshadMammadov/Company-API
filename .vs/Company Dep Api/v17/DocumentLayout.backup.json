@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A16E9A-B011-4A37-9818-D65583F30174}|Service\\Service.csproj|c:\\users\\elshad\\desktop\\company dep api\\service\\helpers\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A16E9A-B011-4A37-9818-D65583F30174}|Service\\Service.csproj|solutionrelative:service\\helpers\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A16E9A-B011-4A37-9818-D65583F30174}|Service\\Service.csproj|c:\\users\\elshad\\desktop\\company dep api\\service\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A16E9A-B011-4A37-9818-D65583F30174}|Service\\Service.csproj|solutionrelative:service\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A16E9A-B011-4A37-9818-D65583F30174}|Service\\Service.csproj|c:\\users\\elshad\\desktop\\company dep api\\service\\services\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A16E9A-B011-4A37-9818-D65583F30174}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A16E9A-B011-4A37-9818-D65583F30174}|Service\\Service.csproj|c:\\users\\elshad\\desktop\\company dep api\\service\\helpers\\dtos\\city\\cityeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A16E9A-B011-4A37-9818-D65583F30174}|Service\\Service.csproj|solutionrelative:service\\helpers\\dtos\\city\\cityeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A16E9A-B011-4A37-9818-D65583F30174}|Service\\Service.csproj|c:\\users\\elshad\\desktop\\company dep api\\service\\helpers\\dtos\\city\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A16E9A-B011-4A37-9818-D65583F30174}|Service\\Service.csproj|solutionrelative:service\\helpers\\dtos\\city\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A16E9A-B011-4A37-9818-D65583F30174}|Service\\Service.csproj|c:\\users\\elshad\\desktop\\company dep api\\service\\helpers\\dtos\\city\\citycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A16E9A-B011-4A37-9818-D65583F30174}|Service\\Service.csproj|solutionrelative:service\\helpers\\dtos\\city\\citycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF8802E-BA8E-4FEE-AA3B-896187442C85}|Repository\\Repository.csproj|c:\\users\\elshad\\desktop\\company dep api\\repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF8802E-BA8E-4FEE-AA3B-896187442C85}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF8802E-BA8E-4FEE-AA3B-896187442C85}|Repository\\Repository.csproj|c:\\users\\elshad\\desktop\\company dep api\\repository\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF8802E-BA8E-4FEE-AA3B-896187442C85}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF8802E-BA8E-4FEE-AA3B-896187442C85}|Repository\\Repository.csproj|c:\\users\\elshad\\desktop\\company dep api\\repository\\repositories\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF8802E-BA8E-4FEE-AA3B-896187442C85}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF8802E-BA8E-4FEE-AA3B-896187442C85}|Repository\\Repository.csproj|c:\\users\\elshad\\desktop\\company dep api\\repository\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF8802E-BA8E-4FEE-AA3B-896187442C85}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF8802E-BA8E-4FEE-AA3B-896187442C85}|Repository\\Repository.csproj|c:\\users\\elshad\\desktop\\company dep api\\repository\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF8802E-BA8E-4FEE-AA3B-896187442C85}|Repository\\Repository.csproj|solutionrelative:repository\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF8802E-BA8E-4FEE-AA3B-896187442C85}|Repository\\Repository.csproj|c:\\users\\elshad\\desktop\\company dep api\\repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF8802E-BA8E-4FEE-AA3B-896187442C85}|Repository\\Repository.csproj|solutionrelative:repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|c:\\users\\elshad\\desktop\\company dep api\\domain\\configuration\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|solutionrelative:domain\\configuration\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A16E9A-B011-4A37-9818-D65583F30174}|Service\\Service.csproj|c:\\users\\elshad\\desktop\\company dep api\\service\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A16E9A-B011-4A37-9818-D65583F30174}|Service\\Service.csproj|solutionrelative:service\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30863B6C-7538-47B2-9EAB-ADCDBBE4A60D}|Company Dep Api\\Company Dep Api.csproj|c:\\users\\elshad\\desktop\\company dep api\\company dep api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30863B6C-7538-47B2-9EAB-ADCDBBE4A60D}|Company Dep Api\\Company Dep Api.csproj|solutionrelative:company dep api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30863B6C-7538-47B2-9EAB-ADCDBBE4A60D}|Company Dep Api\\Company Dep Api.csproj|c:\\users\\elshad\\desktop\\company dep api\\company dep api\\controllers\\admin\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30863B6C-7538-47B2-9EAB-ADCDBBE4A60D}|Company Dep Api\\Company Dep Api.csproj|solutionrelative:company dep api\\controllers\\admin\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF8802E-BA8E-4FEE-AA3B-896187442C85}|Repository\\Repository.csproj|c:\\users\\elshad\\desktop\\company dep api\\repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF8802E-BA8E-4FEE-AA3B-896187442C85}|Repository\\Repository.csproj|solutionrelative:repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|c:\\users\\elshad\\desktop\\company dep api\\domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|c:\\users\\elshad\\desktop\\company dep api\\domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|c:\\users\\elshad\\desktop\\company dep api\\domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|c:\\users\\elshad\\desktop\\company dep api\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|c:\\users\\elshad\\desktop\\company dep api\\domain\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|c:\\users\\elshad\\desktop\\company dep api\\domain\\entities\\jobhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\jobhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|c:\\users\\elshad\\desktop\\company dep api\\domain\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|c:\\users\\elshad\\desktop\\company dep api\\domain\\entities\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD275F0-659A-4613-84EA-774EB3AC8CE5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Repository\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Repository\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:48:12.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Repository\\Repositories\\CityRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Repository\\Repositories\\CityRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\CityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:53:18.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CityCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Service\\Helpers\\DTOs\\City\\CityCreateDto.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\DTOs\\City\\CityCreateDto.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Service\\Helpers\\DTOs\\City\\CityCreateDto.cs",
+              "RelativeToolTip": "Service\\Helpers\\DTOs\\City\\CityCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:01:44.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityDto.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Service\\Helpers\\DTOs\\City\\CityDto.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\DTOs\\City\\CityDto.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Service\\Helpers\\DTOs\\City\\CityDto.cs",
+              "RelativeToolTip": "Service\\Helpers\\DTOs\\City\\CityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:02:49.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CityEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Service\\Helpers\\DTOs\\City\\CityEditDto.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\DTOs\\City\\CityEditDto.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Service\\Helpers\\DTOs\\City\\CityEditDto.cs",
+              "RelativeToolTip": "Service\\Helpers\\DTOs\\City\\CityEditDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:03:17.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Service\\Helpers\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Service\\Helpers\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Helpers\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:04:52.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICityService.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Service\\Services\\Interfaces\\ICityService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\ICityService.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Service\\Services\\Interfaces\\ICityService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\ICityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:08:25.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Service\\Services\\CityService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\CityService.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Service\\Services\\CityService.cs",
+              "RelativeToolTip": "Service\\Services\\CityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:08:48.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Repository\\Repositories\\Interfaces\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\ICityRepository.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Repository\\Repositories\\Interfaces\\ICityRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\ICityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:54:43.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:52:01.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Repository\\Exception\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Repository\\Exception\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Repository\\Exception\\NotFoundException.cs",
+              "RelativeToolTip": "Repository\\Exception\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:55:52.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Repository\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Repository\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Repository\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:45:24.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Configuration\\CityConfiguration.cs",
+              "RelativeDocumentMoniker": "Domain\\Configuration\\CityConfiguration.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Configuration\\CityConfiguration.cs",
+              "RelativeToolTip": "Domain\\Configuration\\CityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:42:42.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Service\\Services\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Service\\Services\\DependencyInjection.cs",
+              "RelativeToolTip": "Service\\Services\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:19:17.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Company Dep Api\\Program.cs",
+              "RelativeDocumentMoniker": "Company Dep Api\\Program.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Company Dep Api\\Program.cs",
+              "RelativeToolTip": "Company Dep Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:22:38.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Company Dep Api\\Controllers\\Admin\\CityController.cs",
+              "RelativeDocumentMoniker": "Company Dep Api\\Controllers\\Admin\\CityController.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Company Dep Api\\Controllers\\Admin\\CityController.cs",
+              "RelativeToolTip": "Company Dep Api\\Controllers\\Admin\\CityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:21:28.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Repository\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Repository\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Repository\\DependencyInjection.cs",
+              "RelativeToolTip": "Repository\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:56:56.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\Country.cs",
+              "RelativeToolTip": "Domain\\Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:37:08.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JobHistory.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\JobHistory.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\JobHistory.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\JobHistory.cs",
+              "RelativeToolTip": "Domain\\Entities\\JobHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:36:13.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Job.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\Job.cs",
+              "RelativeToolTip": "Domain\\Entities\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:35:59.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\Location.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Location.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\Location.cs",
+              "RelativeToolTip": "Domain\\Entities\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:35:52.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\Department.cs",
+              "RelativeToolTip": "Domain\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:35:43.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\City.cs",
+              "RelativeToolTip": "Domain\\Entities\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:35:31.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\Region.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Region.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\Region.cs",
+              "RelativeToolTip": "Domain\\Entities\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:35:24.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\elshad\\Desktop\\Company Dep Api\\Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:29:51.902Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

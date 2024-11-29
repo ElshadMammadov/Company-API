@@ -1,0 +1,36 @@
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\bin\Debug\net6.0\appsettings.json
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\bin\Debug\net6.0\Company Dep Api.staticwebassets.endpoints.json
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\bin\Debug\net6.0\Company Dep Api.exe
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\bin\Debug\net6.0\Company Dep Api.deps.json
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\bin\Debug\net6.0\Company Dep Api.runtimeconfig.json
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\bin\Debug\net6.0\Company Dep Api.dll
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\bin\Debug\net6.0\Company Dep Api.pdb
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\Company Dep Api.csproj.AssemblyReference.cache
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\Company Dep Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\Company Dep Api.AssemblyInfoInputs.cache
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\Company Dep Api.AssemblyInfo.cs
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\Company Dep Api.csproj.CoreCompileInputs.cache
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\Company Dep Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\Company Dep Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\scopedcss\bundle\Company Dep Api.styles.css
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\staticwebassets\msbuild.Company Dep Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\staticwebassets\msbuild.Company Dep Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Company Dep Api.props
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Company Dep Api.props
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Company Dep Api.props
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\Company .C255A640.Up2Date
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\Company Dep Api.dll
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\refint\Company Dep Api.dll
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\Company Dep Api.pdb
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\Company Dep Api.genruntimeconfig.cache
+C:\Users\elshad\Desktop\Company Dep Api\Company Dep Api\obj\Debug\net6.0\ref\Company Dep Api.dll
