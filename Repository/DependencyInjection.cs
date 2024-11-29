@@ -9,7 +9,7 @@ namespace Repository
         public static IServiceCollection AddRepositoryLayer(this IServiceCollection services)
         {
             services.AddScoped<ICityRepository, CityRepository>();
-            //Burada digər repository - ləri də əlavə edin:
+
             //services.AddScoped<ICountryRepository, CountryRepository>();
 
             return services;

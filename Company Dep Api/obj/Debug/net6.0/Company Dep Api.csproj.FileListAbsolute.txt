@@ -75,3 +75,10 @@ C:\Users\Elshadgm\Desktop\Company-API\Company Dep Api\obj\Debug\net6.0\refint\Co
 C:\Users\Elshadgm\Desktop\Company-API\Company Dep Api\obj\Debug\net6.0\Company Dep Api.pdb
 C:\Users\Elshadgm\Desktop\Company-API\Company Dep Api\obj\Debug\net6.0\Company Dep Api.genruntimeconfig.cache
 C:\Users\Elshadgm\Desktop\Company-API\Company Dep Api\obj\Debug\net6.0\ref\Company Dep Api.dll
+C:\Users\Elshadgm\Desktop\Company-API\Company Dep Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Elshadgm\Desktop\Company-API\Company Dep Api\bin\Debug\net6.0\Domain.dll
+C:\Users\Elshadgm\Desktop\Company-API\Company Dep Api\bin\Debug\net6.0\Repository.dll
+C:\Users\Elshadgm\Desktop\Company-API\Company Dep Api\bin\Debug\net6.0\Service.dll
+C:\Users\Elshadgm\Desktop\Company-API\Company Dep Api\bin\Debug\net6.0\Service.pdb
+C:\Users\Elshadgm\Desktop\Company-API\Company Dep Api\bin\Debug\net6.0\Domain.pdb
+C:\Users\Elshadgm\Desktop\Company-API\Company Dep Api\bin\Debug\net6.0\Repository.pdb

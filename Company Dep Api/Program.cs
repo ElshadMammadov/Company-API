@@ -1,7 +1,10 @@
-using Microsoft.AspNetCore.DataProtection.Repositories;
+
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using System;
+using Repository.Data;
+using Service;
+using Repository;
+
 
 
 
@@ -14,7 +17,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-//builder.Services.AddServicelayer();
+
 
 
 builder.Services.AddDbContext<AppDbContext>(options =>
@@ -23,6 +26,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 });
 
 
+builder.Services.AddServiceLayer();
+builder.Services.AddRepositoryLayer();
 
 
 

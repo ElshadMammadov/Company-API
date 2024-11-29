@@ -19,8 +19,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Company Dep Api\Company Dep Api.csproj" />
-  </ItemGroup>
-
 </Project>
